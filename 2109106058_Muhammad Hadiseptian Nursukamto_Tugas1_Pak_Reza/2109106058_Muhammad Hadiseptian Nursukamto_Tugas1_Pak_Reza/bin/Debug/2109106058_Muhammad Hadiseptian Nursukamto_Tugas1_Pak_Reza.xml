@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+2109106058_Muhammad Hadiseptian Nursukamto_Tugas1_Pak_Reza
+</name>
+</assembly>
+<members>
+<member name="T:_2109106058_Muhammad_Hadiseptian_Nursukamto_Tugas1_Pak_Reza.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_2109106058_Muhammad_Hadiseptian_Nursukamto_Tugas1_Pak_Reza.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_2109106058_Muhammad_Hadiseptian_Nursukamto_Tugas1_Pak_Reza.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
